@@ -1,0 +1,28 @@
+body{
+    background-color: #e9e9a9;
+}
+.cont{
+    width: 50%;
+    margin: 0 auto;
+   
+}
+.row{
+    display: flex;
+ 
+}
+.col1{
+    padding-top: 30px;
+    width: 70%;
+    background-color: white;
+}
+.col2{
+    width: 30%;
+    background-color: rgb(170, 166, 166);
+}
+
+.yellow{
+    background-color: rgb(180, 180, 44);
+    height: 100px;
+   
+}
+
